@@ -1,9 +1,10 @@
+# An algorithm for the Automatic Discovery of Curricular Prerequisites
 
 **An algorithm for the Automatic Discovery of Curricular Prerequisites** is my Mathematic's Degree Final Project and my first real contact with the Data World.
 
 The entire project with all its theory, and a step by step guide can be accesed [here](FinalDegreeProject.pdf) (in Spanish).
 
-## INTRODUCTION :loudspeaker:
+## Introduction :loudspeaker:
 
 In education, knowledge units presented to students, are sequenced according to their
 difficulty. Also, a reasonable teaching process design must take into account a proper
@@ -23,7 +24,7 @@ way, (i) it can help the professor generate an optimal sequence of the concepts 
 adquirement or (ii), it can be used as reference in a teaching and learning system for an
 adaptation of the knowledge sequence varying to the needs of each student.
 
-## CONTENTS :books:
+## Contents :books:
 
 As a first approach, on [Prerequisites Discovery in Random Data](https://github.com/sararuizruiz/Automatic-Prerequisite-Discovery/tree/812ae652d23eaf1b8b041b6fb23fa4fe70a0b6a2/Prerequisites%20Discovery%20in%20Random%20Data), we create an algorithm to analyse the existent prerequisites within a randomly generated data file and based on the results, automatically create a Bayesian Network that helps visualise the dependencies and the associated probabilities via [GeNIe Modeler](https://www.bayesfusion.com/genie/).
 
