@@ -1,6 +1,6 @@
 # Automatic Discovery of Curricular Prerequisites
 
-**An algorithm for the Automatic Discovery of Curricular Prerequisites** is my Mathematic's Degree Final Project and my first real contact with the Data World.
+**An algorithm for the Automatic Discovery of Curricular Prerequisites** is my Mathematic's Degree Final Project and my first real contact with the Data World! :bar_chart:
 
 The entire project with all its theory, and a step by step guide can be accesed [here](FinalDegreeProject.pdf) (in Spanish).
 
