@@ -1,7 +1,9 @@
 
 **An algorithm for the Automatic Discovery of Curricular Prerequisites** is my Mathematic's Degree Final Project and my first real contact with the Data World.
 
-##CONTEXT
+The entire project with all its theory, and a step by step guide can be accesed [here](FinalDegreeProject.pdf) (in Spanish).
+
+#CONTEXT
 
 In education, knowledge units presented to students, are sequenced according to their
 difficulty. Also, a reasonable teaching process design must take into account a proper
