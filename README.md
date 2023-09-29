@@ -1,4 +1,4 @@
-# An algorithm for the Automatic Discovery of Curricular Prerequisites
+# Automatic Discovery of Curricular Prerequisites
 
 **An algorithm for the Automatic Discovery of Curricular Prerequisites** is my Mathematic's Degree Final Project and my first real contact with the Data World.
 
