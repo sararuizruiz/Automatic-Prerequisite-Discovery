@@ -2,6 +2,10 @@
 
 **An algorithm for the Automatic Discovery of Curricular Prerequisites** is my Mathematic's Degree Final Project and my first real contact with the Data World! :bar_chart:
 
+**Author**: Sara Ruiz Ruiz <br />
+**Email**: sararr090@gmail.com <br />
+**LinkedIn**: www.linkedin.com/in/sara-ruiz-ruiz  <br />
+
 The entire project with all its theory, and a step by step guide can be accesed [here](FinalDegreeProject.pdf) (in Spanish).
 
 ## Introduction :loudspeaker:
